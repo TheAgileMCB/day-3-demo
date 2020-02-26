@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(44, 44, 102);
+}
+
+header, footer {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(179, 255, 0);
+    font-size: 5em;
+}
+
+nav, ul, li {
+    display: inline-block;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+
+}
+
+li {
+    padding: 1rem;
+}
